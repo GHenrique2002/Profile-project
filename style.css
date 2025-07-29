@@ -124,7 +124,7 @@ footer{
   font-size: 14px;
 }
 
-/* media queres 
+/* media queres */
 @media (min-width: 700px){
   :root{
     --bg-url: url(./assets/bg-desktop.jpg);
@@ -132,7 +132,7 @@ footer{
   .light{
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }   
-} */
+} 
 
  /* animações */
 @keyframes slide-in {
